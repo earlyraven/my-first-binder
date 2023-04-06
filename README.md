@@ -21,9 +21,12 @@ Open command terminal and write:
 
 ### Remote install & run:
 Remote installation is handled automatically by BinderHub. Click the following link to launch the remote virtual environment.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/earlyraven/my-first-binder/HEAD)
+
 Within the environment, open up the Python 3 command line and run the following command:
-python hello.py
+
+```python hello.py```
 
 ## Credits
 Thanks to the following for their contributions to the project:
